@@ -1,6 +1,6 @@
 ## Hi i'm Khulyso <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm  Khuliso John Thavhiwa, a Full Stack Web Developer Mathematics tutor. I Spend most of time coding outstanding projects and Learning new stuff.
+I'm  Khuliso John Thavhiwa, a Full Stack Web Developer and Mathematics tutor. I Spend most of time coding outstanding projects and Learning new technologies.
 
 :mailbox: Reach me out!
 
@@ -26,8 +26,8 @@ I'm  Khuliso John Thavhiwa, a Full Stack Web Developer Mathematics tutor. I Spen
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+- :paperclip: [My Resume/CV]()
+- :email: khulyso.dev@gmail.com
 
 
 #### Profile Visits 
