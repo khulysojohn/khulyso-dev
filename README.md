@@ -11,7 +11,7 @@ I'm  Khuliso John Thavhiwa, a Full Stack Web Developer and Mathematics tutor. I 
 - 🔭 I’m currently working at @Fusebox online
 - :computer: Most used line of code `git commit -m "Initial Commit"`
 - 🤔 I’m looking for help with Outstanding Video ideas.
-- 📫 How to reach me: islempenywis@gmail.com.
+- 📫 How to reach me: khulyso.dev@gmail.com.
 - ⚡ Fun fact: I play games and read motivational books often.
 
 #### Top Technologies
