@@ -4,7 +4,7 @@ I'm  Khuliso John Thavhiwa, a Full Stack Web Developer Mathematics tutor. I Spen
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@khulyso12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khulyso12)](https://twitter.com/khulyso10) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khulysojohn/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]
+[![Twitter Badge](https://img.shields.io/badge/-@khulyso12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khulyso12)](https://twitter.com/khulyso12) [![Linkedin Badge](https://img.shields.io/badge/-Islem-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khulysojohn/) [![Mail Badge](https://img.shields.io/badge/-@islempenywis-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/islempenywis) [![Mail Badge](https://img.shields.io/badge/-islempenywis-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)]
 
 
 <!-- TODO: Add last video link -->
