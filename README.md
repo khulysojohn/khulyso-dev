@@ -30,10 +30,6 @@ I'm  Khuliso John Thavhiwa, a Full Stack Web Developer and Mathematics tutor. I 
 - :email: khulyso.dev@gmail.com
 
 
-#### Profile Visits 
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=khulyso-dev.khulyso.dev)
-
 <details>
 <summary>
   More stuff about me
@@ -42,10 +38,6 @@ I'm  Khuliso John Thavhiwa, a Full Stack Web Developer and Mathematics tutor. I 
 <br >
 
 I love sharing knowledge and helping other developers.
-
-#### What is CoderOne?
-
-
 
 #### Coding Stats
 
