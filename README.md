@@ -73,10 +73,10 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 <p><a href="https://www.buymeacoffee.com/Saber1Y"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=Saber1Y&button_colour=FFDD00&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=ffffff" /></a></p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=saber1y&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khulysojohn&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Saber1Y&theme=dark&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=khulysojohn&theme=dark&hide_border=false)<br/>
 
 
 ## 🏆 GitHub Trophies
@@ -108,11 +108,11 @@ I love sharing knowledge and helping other developers.
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+javascript   15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
 HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-Markdown     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-YAML         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+CSS     1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+React        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Tailwind CSS        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
