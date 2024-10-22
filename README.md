@@ -1,6 +1,7 @@
 ## Hi i'm Khulyso John <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm  Khuliso John Thavhiwa, a Frontend Developer. I Spend most of time coding outstanding projects and Learning new technologies.
+<img align="right" alt="Coding" width="400px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmR0NHNzZnpjcnI3cXdwcXg4NzN0emtjdTkzZzV4a2dwdGY0c3U4ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
 
 :mailbox: Reach me out!
 
