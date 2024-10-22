@@ -14,7 +14,16 @@ I'm  Khuliso John Thavhiwa, a Frontend Developer. I Spend most of time coding ou
 - ⚡ Fun fact **I'm also tutor**
 
 
-[![Twitter Badge](https://img.shields.io/badge/-@khulyso12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khulyso12)](https://twitter.com/khulyso12) [![Linkedin Badge](https://img.shields.io/badge/-khulysojohn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khulysojohn/) [![Mail Badge](https://img.shields.io/badge/-khulyso.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khulyso.dev@gmail.com)
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/akintobi-ayodeji-86a675236" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" height="30" width="40" /></a>
+<a href="https://t.me/sabercm" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="Telegram" height="30" width="30" />
+</a>
+
+
+</p>
 
 
 
