@@ -21,28 +21,15 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" height="30" width="40" /></a>
  
 <a href="https://t.me/sabercm" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/gmail.svg" alt="Telegram" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/telegram.svg" alt="Telegram" height="30" width="30" />
 </a>
 </p>
-
-
-#### Top Technologies
-
-
-
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) 
-[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
-[![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#)
-[![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) 
-[![mySQL Badge](https://img.shields.io/badge/-mySQl-e535ab?style=for-the-badge&labelColor=black&logo=mysql&logoColor=e535ab)](#)
-
-
 
 <br />
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: grid; grid-template-columns: repeat(4, auto); gap: 20px; justify-content: center;">
+<p align="left" style="display: grid; grid-template-columns: repeat(6, auto); gap: 20px; justify-content: center;">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
