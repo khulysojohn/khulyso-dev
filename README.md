@@ -1,19 +1,18 @@
 ## Hi i'm Khulyso John <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
 I'm  Khuliso John Thavhiwa, a Frontend Developer. I Spend most of time coding outstanding projects and Learning new technologies.
-- 🔭 I’m currently working on  [Jobi Dashboard]()
+- 🔭 I’m currently a cohort at   [Techbridle solutions]()
 
-- 🌱 I’m currently Learning  **Solidity**
+- 🌱 I’m currently Learning  **Node.js**
 
-- 📫 How to reach me **ayodejiakintobi1@gmail.com**
+- 📫 How to reach me **khulysojohn@gmail.com**
 
-- 💻 Portfolio Website: **https://saber-dev.vercel.app**
+- 💻 Portfolio Website: **https://khulysojohn.netlify.app**
 
-- 🌲 All My Links: *[Linkt.ree.com/saber1Y](https://linktr.ee/saber1Y)*
 
-- ⚡ Fun fact **I'm also Gamer**
 
-:mailbox: Reach me out!
+- ⚡ Fun fact **I'm also tutor**
+
 
 [![Twitter Badge](https://img.shields.io/badge/-@khulyso12-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/khulyso12)](https://twitter.com/khulyso12) [![Linkedin Badge](https://img.shields.io/badge/-khulysojohn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khulysojohn/) [![Mail Badge](https://img.shields.io/badge/-khulyso.dev-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:khulyso.dev@gmail.com)
 
