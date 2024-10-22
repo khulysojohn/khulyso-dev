@@ -1,6 +1,6 @@
 ## Hi i'm Khulyso John <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm  Khuliso John Thavhiwa, a Frontend Developer. I Spend most of time coding outstanding projects and Learning new technologies.
+My name is Khuliso John Thavhiwa, a Frontend Developer. I Spend most of time coding outstanding projects and Learning new technologies.
 - 🔭 I’m currently a cohort at   [Techbridle solutions]()
 
 - 🌱 I’m currently Learning  **Node.js**
@@ -13,7 +13,7 @@ I'm  Khuliso John Thavhiwa, a Frontend Developer. I Spend most of time coding ou
 
 - ⚡ Fun fact **I'm also tutor**
 
-
+## Get in touch!
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/saberyt18_yt?t=fkeyts9clu5ody1xffk1rg&s=09" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/akintobi-ayodeji-86a675236" target="blank">
