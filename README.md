@@ -93,13 +93,13 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Saber1Y&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=khulysojohn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🔝 Personal Github Stats
-|![](https://github-readme-stats.vercel.app/api?username=Saber1Y&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+![khulysojohn's github stats](https://github-readme-stats.vercel.app/api?username=khulysojohn&count_private=true&theme=tokyonight&hide=contribs,prs)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saber1Y&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Khulysojohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
@@ -131,7 +131,7 @@ YAML         2 mins          ░░░░░░░░░░░░░░░░░
 
 #### Github Stats
 
-![khulysojohn's github stats](https://github-readme-stats.vercel.app/api?username=khulysojohn&count_private=true&theme=tokyonight&hide=contribs,prs)
+
 
 </details>
 
