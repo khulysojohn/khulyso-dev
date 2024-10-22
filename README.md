@@ -5,7 +5,7 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 
 - 🌱 I’m currently Learning  **Node.js**
 
-- 📫 How to reach me **khulysojohn@gmail.com**
+- 📫 How to reach me -📫:[**khulysojohn@gmail.com**]
 
 - 💻 Portfolio Website: **https://khulysojohn.netlify.app**
 
