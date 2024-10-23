@@ -21,7 +21,7 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akintobi-ayodeji-86a675236" height="30" width="40" /></a>
  
 <a href="https://t.me/sabercm" target="_blank">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/telegram.svg" alt="Telegram" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/telegram_logo.svg" alt="Telegram" height="30" width="30" />
 </a>
 </p>
 
@@ -29,33 +29,42 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 <br />
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" style="display: grid; grid-template-columns: repeat(6, auto); gap: 20px; justify-content: center;">
+<p align="left" style="display: grid; grid-template-columns: repeat(4, auto); gap: 20px; justify-content: center;">
+ 
+   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  </a>
+  
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
+
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
   </a>
- <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
+  
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
+ 
+  <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" alt='Framer' width="60" height="60"  />     
  </a>
+ 
  </p>
  <p>
     <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
   </a>
+  
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
   </a>
+  
   <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40" />
   </a>
+  
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
@@ -63,6 +72,7 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt='Next.js' width="40" height="40" /> 
   </a>
+  
  </p>
 
 
