@@ -65,21 +65,13 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt='Next.js' width="40" height="40" /> 
   </a>
  </p>
-
+### Most language used
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khulysojohn&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
 
-
+#### Bizness
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khulysojohn&theme=dark&hide_border=false)<br/>
 
-
-
-
-
-
-#### Bizness
 - :paperclip: [My Resume/CV]()
-
-
 
 <details>
 <summary>
@@ -98,19 +90,6 @@ I love sharing knowledge and helping other developers.
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Khulysojohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-javascript    15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML          1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-CSS           1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-React         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-Tailwind CSS  2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-
-```
-<!--END_SECTION:waka-->
 
 </details>
 
