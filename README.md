@@ -49,24 +49,17 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
   <a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original-wordmark.svg" alt='Framer' width="60" height="60"  />     
  </a>
+ <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  </a>
  </p>
  
  <p>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" alt="Solidity" width="40" height="40" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt='Next.js' width="40" height="40" /> 
-  </a>
+  
+ 
  </p><br>
  
-<h3>Most language used</h3> 
+<h4>Most language used</h4> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khulysojohn&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
 
 #### Bizness
