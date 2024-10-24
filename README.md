@@ -72,14 +72,7 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=khulysojohn&theme=dark&hide_border=false)<br/>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=khulysojohn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-## 🔝 Personal Github Stats
-![khulysojohn's github stats](https://github-readme-stats.vercel.app/api?username=khulysojohn&count_private=true&theme=tokyonight&hide=contribs,prs)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Khulysojohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
 
@@ -96,6 +89,15 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
 <br >
 
 I love sharing knowledge and helping other developers.
+<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=khulysojohn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 🔝 Personal Github Stats
+![khulysojohn's github stats](https://github-readme-stats.vercel.app/api?username=khulysojohn&count_private=true&theme=tokyonight&hide=contribs,prs)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Khulysojohn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 #### Coding Stats
 
@@ -109,8 +111,6 @@ Tailwind CSS  2 mins          ░░░░░░░░░░░░░░░░�
 
 ```
 <!--END_SECTION:waka-->
-
-#### Github Stats
 
 </details>
 
