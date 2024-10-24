@@ -64,8 +64,9 @@ My name is Khuliso John Thavhiwa, a Frontend Developer.
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt='Next.js' width="40" height="40" /> 
   </a>
- </p>
-### Most language used
+ </p><br>
+ 
+<h3>Most language used</h3> 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khulysojohn&show_icons=true&locale=en&layout=compact" alt="saber1y" /></p>
 
 #### Bizness
